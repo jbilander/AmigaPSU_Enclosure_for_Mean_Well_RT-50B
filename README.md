@@ -39,10 +39,36 @@ First strip the two leads on the power switch and attach two terminal blocks. Ad
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic7.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic7.jpg" width="202" height="151">
 </a>
-<br />
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic8.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic8.jpg" width="151" height="202">
 </a>
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic9.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic9.jpg" width="151" height="202">
 </a>
+
+***
+
+Now time to fit the Mean Well RT-50B PSU, but first unscrew the left-front screw and use that screw as in picture. Don't screw it all the way down but rather leave some room for the metal chassi to fit in between for a snug fit.
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic10.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic10.jpg" width="151" height="202">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic11.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic11.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic12.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic12.jpg" width="303" height="227">
+</a>
+
+***
+
+Now secure the PSU with a couple of other suitable screws and then connect and secure the leads.
+
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic13.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic13.jpg" width="151" height="202">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic14.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic14.jpg" width="303" height="227">
+</a>
+
