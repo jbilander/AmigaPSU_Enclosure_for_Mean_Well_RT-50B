@@ -200,7 +200,7 @@ I printed in ABS-plastic since it feels a lot more safe dealing with power and h
 
 ### Printing the top part.
 
-Settings: Nozzle 250° C, Bed 120° C, Infill 60%. Printing time: 15 hours!!! with Ender 3-Pro and using the Hairspray trick to make the material stick to the polypropylen bed.
+Settings: Nozzle 250° C, Bed 120° C, Infill 60%. Printing time: 15 hours!!! with Ender 3-Pro and using the hairspray trick to make the material stick to the polypropylen bed.
 
 I first had a failed print because of wrong temperature and nothing to fixate the ventilation fins with. They came loose and caused problems when "gluing" the parts together.
 
@@ -231,7 +231,7 @@ I went back to DesignSpark Mechanical and made a more printer friendly version o
 
 ***
 
-In the middle of the print the corners started to come off, I didn't print with a brim which probably would have been better, but it only improved on the design a little :)
+In the middle of the print the corners started to come off, I didn't print with a brim which probably would have been better, but the corner creep only improved on the design a little :)
 
 ***
 
@@ -302,7 +302,7 @@ Using a hacksaw and a cutter to trim the design of the vent.
 
 ### Printing the bottom part
 
-Using similar settings here but printing with a brim to make it stay more flat. 13 hours for this print to finish.
+Using similar settings here but printing with a brim to make it stay more flat. 13 hours for this print to finish. I used tape on the brim fringe to make it stick to the bed better.
 
 ***
 
