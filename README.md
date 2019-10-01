@@ -120,7 +120,7 @@ We see that using a 100 Ohm, 3 watt capable resistor is perfect for the -12V rai
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic20.jpg" width="504" height="378">
 </a>
 
-Verifying theory with practice IRL:
+Applying theory in practice:
 
 Checking the Currents (Amps)...Shows 120mA and 250mA, just as excpected! I put some shrink tube on the resistors legs for safety reasons.
 
