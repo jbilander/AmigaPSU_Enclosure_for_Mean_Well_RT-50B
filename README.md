@@ -178,7 +178,7 @@ And verify pinout:
 Finally put it together.
 <br />
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic32.jpg">
-<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic32.jpg" width="305" height="210">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic32.jpg" width="303" height="227">
 </a>
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic33.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic33.jpg" width="151" height="202">
@@ -191,13 +191,13 @@ Finally put it together.
 
 ### 3d-Printing
 
-I chose to print in ABS-plastic since it feels a lot more safe dealing with power and heat compared to PLA.
+I printed in ABS-plastic since it feels a lot more safe dealing with power and heat compared to PLA.
 
 Printing the top part.
 
-Settings: Nozzle 250° C, Bed 120° C, Infill 60%. Printing time: 15 hours!!! with Ender 3-Pro and using the Hairspray trick to make the print stick to the polypropylen bed.
+Settings: Nozzle 250° C, Bed 120° C, Infill 60%. Printing time: 15 hours!!! with Ender 3-Pro and using the Hairspray trick to make the material stick to the polypropylen bed.
 
-I first had a failed print because of wrong temperature and nothing to fixate the ventilation fins. They came loose and caused problems when "gluing" the parts together.
+I first had a failed print because of wrong temperature and nothing to fixate the ventilation fins with. They came loose and caused problems when "gluing" the parts together.
 
 ***
 
@@ -224,3 +224,51 @@ I went back to DesignSpark Mechanical and made a more printer friendly version o
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic40.jpg" width="202" height="151">
 </a>
 
+***
+
+In the middle of the print the corners started to come off, I didn't print with a brim which probably would have been better, but it only improved on the design a little :)
+
+***
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic41.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic41.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic42.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic42.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic43.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic43.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic44.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic44.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic45.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic45.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic46.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic46.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic47.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic47.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic48.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic48.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic49.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic49.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic50.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic50.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic51.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic51.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic52.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic52.jpg" width="202" height="151">
+</a>
+
+***
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic53.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic53.jpg" width="303" height="227">
+</a>
