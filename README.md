@@ -31,7 +31,7 @@ Attention: Read the <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a> before do
 
 ***
 
-First strip the two leads on the power switch and attach two terminal blocks. Adjust the cable length and cut the Line lead (brown) and connect to terminal block like in picture. Blue is Neutral (return lead) and green/yellow is GND/Earth. Carefully cut the isolation if needed. Do not cut into the leads themselves.
+First strip the two leads on the power switch and attach two terminal blocks. Adjust the cable length and cut the Line lead (brown) and connect to the terminal blocks like in picture. Blue is Neutral (return lead) and green/yellow is GND/Earth. Carefully cut the isolation if needed. Do not cut into the leads themselves.
 
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic6.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic6.jpg" width="202" height="151">
@@ -72,3 +72,64 @@ Now secure the PSU with a couple of other suitable screws and then connect and s
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic14.jpg" width="303" height="227">
 </a>
 
+***
+Plugging the power cord in and turning the power switch on we can verify we got 230V AC input working.
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic15.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic15.jpg" width="504" height="378">
+</a>
+
+***
+### Dummy load (optional)
+
+Looking at the datasheet for Mean Well RT-50B we can see that minimum current requirements are specified, this means for the PSU to operate reliably we need to have a minimum draw just above the minimum threshold on each rail. The Amiga almost exclusively use the +5V rail so no problem there but on -12V and +12V we might need to put dummy loads on.
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic16.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic16.jpg" width="868" height="166">
+</a>
+
+***
+
+However, Checking another Mean Well datasheet says differently. Hmm maybe newer versions of the PSU doesn't need it?
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic17.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic17.jpg" width="868" height="166">
+</a>
+
+***
+
+Anyway, I will show how to do this dummy load config for those who might need it.
+
+To get the minimum 0.2A on +12V and 0.1 on -12V we can use Power Resistors that will be connected to Common Signal GND. The draw will dissipate as heat so good to place them near a heatsink and ventilation if possible.
+
+Let's calculate Ohm and Wattage to pick suitable resistors. This can easily be done manually or by using a online-calculator like this one: https://www.rapidtables.com/calc/electric/watt-volt-amp-calculator.html
+
+
+
+
+We see that using a 100 Ohm, 3 watt capable resistor is perfect for the -12V rail dummy load and a 47 Ohm, 5 watt capable resistor is suitable for the 12V.
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic18.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic18.jpg" width="305" height="210">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic19.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic19.jpg" width="305" height="210">
+</a>
+<br />
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic20.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic20.jpg" width="504" height="378">
+</a>
+
+Verifying theory with practice IRL:
+
+Checking the Currents (Amps)...Shows 120mA and 250mA, just as excpected!
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic21.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic21.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic22.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic22.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic23.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic23.jpg" width="202" height="151">
+</a>
