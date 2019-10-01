@@ -122,7 +122,7 @@ We see that using a 100 Ohm, 3 watt capable resistor is perfect for the -12V rai
 
 Verifying theory with practice IRL:
 
-Checking the Currents (Amps)...Shows 120mA and 250mA, just as excpected!
+Checking the Currents (Amps)...Shows 120mA and 250mA, just as excpected! I put some shrink tube on the resistors legs for safety reasons.
 
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic21.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic21.jpg" width="202" height="151">
@@ -133,3 +133,41 @@ Checking the Currents (Amps)...Shows 120mA and 250mA, just as excpected!
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic23.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic23.jpg" width="202" height="151">
 </a>
+
+***
+
+Now let's check voltages:
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic24.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic24.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic25.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic25.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic26.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic26.jpg" width="202" height="151">
+</a>
+
+***
+
+And wire it up:
+
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic27.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic27.jpg" width="504" height="378">
+</a>
+<br />
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic28.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic28.jpg" width="202" height="151">
+</a>
+And verify pinout
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic29.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic29.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic30.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic30.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic31.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic31.jpg" width="202" height="151">
+</a>
+
