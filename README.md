@@ -100,7 +100,7 @@ However, Checking another Mean Well datasheet says differently. Hmm maybe newer 
 
 Anyway, I will show how to do this dummy load config for those who might need it.
 
-To get the minimum 0.2A on +12V and 0.1 on -12V we can use Power Resistors that will be connected to Common Signal GND. The draw will dissipate as heat so good to place them near a heatsink and ventilation if possible.
+To get the minimum 0.2A on +12V and 0.1 on -12V we can use Power Resistors that will be connected to Common Signal GND. The energy will dissipate as heat so good to place the resistors near a heatsink area and ventilation if possible. I did the case printout in the more heat resistant ABS plastic for this reason. ABS is better in that regard compared to PLA.
 
 Let's calculate Ohm and Wattage to pick suitable resistors. This can easily be done manually or by using a online-calculator like this one: https://www.rapidtables.com/calc/electric/watt-volt-amp-calculator.html
 
@@ -191,4 +191,36 @@ Finally put it together.
 
 ### 3d-Printing
 
-more to come here...
+I chose to print in ABS-plastic since it feels a lot more safe dealing with power and heat compared to PLA.
+
+Printing the top part.
+
+Settings: Nozzle 250° C, Bed 120° C, Infill 60%. Printing time: 15 hours!!! with Ender 3-Pro and using the Hairspray trick to make the print stick to the polypropylen bed.
+
+I first had a failed print because of wrong temperature and nothing to fixate the ventilation fins. They came loose and caused problems when "gluing" the parts together.
+
+***
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic35.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic35.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic36.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic36.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic37.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic37.jpg" width="202" height="151">
+</a>
+
+***
+I went back to DesignSpark Mechanical and made a more printer friendly version of the top part. Fixating the ventilation area together which I later could cut off for design reasons. Now it printed without problem:
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic38.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic38.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic39.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic39.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic40.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic40.jpg" width="202" height="151">
+</a>
+
