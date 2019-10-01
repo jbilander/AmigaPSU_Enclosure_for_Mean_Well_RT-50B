@@ -269,6 +269,29 @@ In the middle of the print the corners started to come off, I didn't print with 
 
 ***
 
+Using a hacksaw and a cutter to trim the design of ventilation area.
+
+***
+
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic53.jpg">
-<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic53.jpg" width="303" height="227">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic53.jpg" width="202" height="151">
 </a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic54.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic54.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic55.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic55.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic56.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic56.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic57.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic57.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic58.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic58.jpg" width="202" height="151">
+</a>
+
+***
+
+Printing the bottom part
