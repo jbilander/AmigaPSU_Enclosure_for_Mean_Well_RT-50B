@@ -189,11 +189,11 @@ Finally put it together.
 </a>
 ***
 
-### 3d-Printing
+## 3d-Printing
 
 I printed in ABS-plastic since it feels a lot more safe dealing with power and heat compared to PLA.
 
-Printing the top part.
+### Printing the top part.
 
 Settings: Nozzle 250° C, Bed 120° C, Infill 60%. Printing time: 15 hours!!! with Ender 3-Pro and using the Hairspray trick to make the material stick to the polypropylen bed.
 
@@ -295,4 +295,94 @@ Using a hacksaw and a cutter to trim the design of the vent.
 
 ***
 
-Printing the bottom part
+### Printing the bottom part
+
+Using similar settings here but printing with a brim to make it stay more flat. 13 hours for this print to finish.
+
+***
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic59.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic59.jpg" width="648" height="414">
+</a>
+<br />
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic60.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic60.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic61.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic61.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic62.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic62.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic63.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic63.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic64.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic64.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic65.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic65.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic66.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic66.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic67.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic67.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic68.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic68.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic69.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic69.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic70.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic70.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic71.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic71.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic72.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic72.jpg" width="202" height="151">
+</a>
+
+***
+
+Although printing with a brim worked better I got some cracks in the body. I used some super glue to seal it.
+
+***
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic73.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic73.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic74.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic74.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic75.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic75.jpg" width="151" height="202">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic76.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic76.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic77.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic77.jpg" width="202" height="151">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic78.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic78.jpg" width="202" height="151">
+</a>
+
+***
+
+The final result:
+
+***
+
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic79.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic79.jpg" width="151" height="202">
+</a>
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic80.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic80.jpg" width="202" height="151">
+</a>
+<br />
+<a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic81.jpg">
+<img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic81.jpg" width="404" height="303">
+</a>
