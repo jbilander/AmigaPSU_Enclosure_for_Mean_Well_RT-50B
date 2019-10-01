@@ -150,8 +150,13 @@ Now let's check voltages:
 
 ***
 
-Switch Off and disconnect power cord, and wire it up:
+Switch Off and disconnect power cord from outlet, and wire it up:
 
+* Yellow = GND/Shield/Earth
+* White = -12V
+* Brown = +12V
+* Red = +5V
+* Black = 0V/Signal GND
 
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic27.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic27.jpg" width="504" height="378">
