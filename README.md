@@ -352,7 +352,7 @@ Using similar settings here but printing with a brim to make it stay more flat. 
 
 ***
 
-Although printing with a brim worked better I got some cracks in the body. I used some super glue to seal it.
+Although printing with a brim worked better I got some cracks in the body during cooling down. I used some super glue to seal it.
 
 ***
 
