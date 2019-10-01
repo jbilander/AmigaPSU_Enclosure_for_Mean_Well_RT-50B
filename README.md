@@ -160,8 +160,11 @@ And wire it up:
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic28.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic28.jpg" width="202" height="151">
 </a>
-<br />
+
+***
+
 And verify pinout:
+<br />
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic29.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic29.jpg" width="202" height="151">
 </a>
@@ -171,6 +174,8 @@ And verify pinout:
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic31.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic31.jpg" width="202" height="151">
 </a>
+<br />
+Finally put it together.
 <br />
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic32.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic32.jpg" width="305" height="210">
@@ -182,3 +187,8 @@ And verify pinout:
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic34.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic34.jpg" width="504" height="378">
 </a>
+***
+
+### 3d-Printing
+
+more to come here...
