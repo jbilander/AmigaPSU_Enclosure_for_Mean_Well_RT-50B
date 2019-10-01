@@ -150,7 +150,7 @@ Now let's check voltages:
 
 ***
 
-And wire it up:
+Switch Off and disconnect power cord, and wire it up:
 
 
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic27.jpg">
