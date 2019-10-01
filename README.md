@@ -48,7 +48,7 @@ First strip the two leads on the power switch and attach two terminal blocks. Ad
 
 ***
 
-Now time to fit the Mean Well RT-50B PSU, but first unscrew the left-front screw and use that screw as in picture. Don't screw it all the way down but rather leave some room for the metal chassi to fit in between for a snug fit.
+Now time to fit the Mean Well RT-50B PSU, but first unscrew the front-left screw and use that screw as in picture. Don't screw it all the way down but rather leave some room for the metal chassi to fit in between for a snug fit.
 
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic10.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic10.jpg" width="151" height="202">
@@ -82,7 +82,7 @@ Plugging the power cord in and turning the power switch on we can verify we got 
 ***
 ### Dummy load (optional)
 
-Looking at the datasheet for Mean Well RT-50B we can see that minimum current requirements are specified, this means for the PSU to operate reliably we need to have a minimum draw just above the minimum threshold on each rail. The Amiga almost exclusively use the +5V rail so no problem there but on -12V and +12V we might need to put dummy loads on.
+Looking at the datasheet for Mean Well RT-50B we can see that minimum current requirements are specified, this means for the PSU to operate reliably we need to have a minimum current draw just above the minimum threshold on each rail. The Amiga almost exclusively use the +5V rail so no problem there but on -12V and +12V we might need to put dummy loads on.
 
 <a href="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic16.jpg">
 <img src="images/Amiga_PSU_enclosure_for_Mean_Well_RT-50B_pic16.jpg" width="868" height="166">
